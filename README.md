@@ -4,7 +4,7 @@
 A virtual assistant made in python
 ## Author
 
-- [@Snithix-Coder](https://www.github.com/Snithix-Coder)
+- [@SudoSteven](https://www.github.com/SudoSteven)
 
   
 ## Optimizations
@@ -13,10 +13,10 @@ Highly optimised and runs in foreground
   
 ## Installation
 
-Install python from [python.org](https://python.org) and clone this repo. Then open cmd in the folder where it is cloned and type 'python Snithix.py' or if you have python3, then type 'python3 Snithix.py'
+Install python from [python.org](https://python.org) and clone this repo. Then open cmd in the folder where it is cloned and type `python Snithix.py` or if you have python3, then type `python3 Snithix.py`
 
 ## Please read
 
  - This is not finished yet. You can fork this repo and add more features to make this better. Remember to credit me ;)
- - It is made using SpeechRecognition, pyttsx3 and wikipedia api
+ - Made using SpeechRecognition, pyttsx3 and wikipedia API
   
